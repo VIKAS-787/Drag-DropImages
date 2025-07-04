@@ -23,4 +23,4 @@ function Prewive({fileDetails,removePrewive}) {
   )
 }
 
-export default Prewive
+export default Prewive;
